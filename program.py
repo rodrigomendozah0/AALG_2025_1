@@ -1,1 +1,2 @@
-print("Mafer has el programa"); 
+print("Mafer has el programa")
+print("hola gente")
